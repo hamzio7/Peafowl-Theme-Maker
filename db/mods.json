@@ -1,0 +1,375 @@
+{
+  "mods": [
+    {
+      "_id": "dock_bg",
+      "name": "Dock Background"
+    },
+    {
+      "_id": "gmail",
+      "name": "Gmail Notification Fix"
+    },
+    {
+      "_id": "miuiseekbars",
+      "name": "MIUI Seek Bars"
+    },
+    {
+      "_id": "volume_transparent",
+      "name": "Semi-Transparent Volume Bar"
+    },
+    {
+      "_id": "volume_dark",
+      "name": "Stock Volume Panel (Dark)"
+    },
+    {
+      "_id": "volume_light",
+      "name": "Stock Volume Panel (Light)"
+    },
+    {
+      "_id": "div_iSpecial_cyan",
+      "name": "i-Special Cyan Dividers"
+    },
+    {
+      "_id": "div_iSpecial",
+      "name": "i-Special Dividers"
+    },
+    {
+      "_id": "div_iSpecial_green",
+      "name": "i-Special Green Dividers"
+    },
+    {
+      "_id": "div_iSpecial_grey",
+      "name": "i-Special Grey Dividers"
+    },
+    {
+      "_id": "div_iSpecial_pink",
+      "name": "i-Special Pink Dividers"
+    }
+  ],
+  
+  "settings_icons": [
+    {
+      "_id": "plumpy",
+      "isColored": true
+    },
+    {
+      "_id": "fluent",
+      "isColored": true
+    },
+    {
+      "_id": "fluent_fill",
+      "isColored": true
+    },
+    {
+      "_id": "coloros",
+      "isColored": false
+    },
+    {
+      "_id": "coloros13_c",
+      "isColored": false
+    },
+    {
+      "_id": "coloros_b",
+      "isColored": true
+    },
+    {
+      "_id": "coloros13",
+      "isColored": true
+    },
+    {
+      "_id": "twelve_b",
+      "isColored": true
+    },
+    {
+      "_id": "twelve",
+      "isColored": false
+    },
+    {
+      "_id": "frost",
+      "isColored": false
+    },
+    {
+      "_id": "ios_lines",
+      "isColored": true
+    },
+    {
+      "_id": "morphy",
+      "isColored": false
+    },
+    {
+      "_id": "dream",
+      "isColored": false
+    },
+    {
+      "_id": "dream_alt",
+      "isColored": true
+    },
+    {
+      "_id": "material_circle_alt",
+      "isColored": false
+    },
+    {
+      "_id": "material_circle",
+      "isColored": true
+    },
+    {
+      "_id": "miui_alt",
+      "isColored": true
+    },
+    {
+      "_id": "miui",
+      "isColored": false
+    },
+    {
+      "_id": "ios_alt",
+      "isColored": false
+    },
+    {
+      "_id": "ios",
+      "isColored": false
+    },
+    {
+      "_id": "material",
+      "isColored": false
+    },
+    {
+      "_id": "oneui",
+      "isColored": false
+    },
+    {
+      "_id": "oneuic",
+      "isColored": true
+    },
+    {
+      "_id": "modern",
+      "isColored": true
+    },
+    {
+      "_id": "material_outline",
+      "isColored": true
+    }
+  ],
+
+  "fonts": [
+    {
+      "name": "Aaargh",
+      "_id": "Aaargh"
+    },
+    {
+      "name": "Airstream",
+      "_id": "Airstream"
+    },
+    {
+      "name": "Aller",
+      "_id": "Aller"
+    },
+    {
+      "name": "Amadeus",
+      "_id": "Amadeus"
+    },
+    {
+      "name": "Amatic",
+      "_id": "Amatic"
+    },
+    {
+      "name": "Amble",
+      "_id": "Amble"
+    },
+    {
+      "name": "Aquiline Two",
+      "_id": "AquilineTwo"
+    },
+    {
+      "name": "Architects Daughter",
+      "_id": "ArchitectsDaughter"
+    },
+    {
+      "name": "Arimo",
+      "_id": "Arimo"
+    },
+    {
+      "name": "Cantarell",
+      "_id": "Cantarell"
+    },
+    {
+      "name": "Capsuula",
+      "_id": "Capsuula"
+    },
+    {
+      "name": "Carrington",
+      "_id": "Carrington"
+    },
+    {
+      "name": "Caviar Dreams",
+      "_id": "CaviarDreams"
+    },
+    {
+      "name": "Cicle Fina",
+      "_id": "Cicle_Fina"
+    },
+    {
+      "name": "Cicle Semi",
+      "_id": "Cicle_Semi"
+    },
+    {
+      "name": "Comfortaa",
+      "_id": "Comfortaa"
+    },
+    {
+      "name": "Desyrel",
+      "_id": "Desyrel"
+    },
+    {
+      "name": "England Hand DB",
+      "_id": "England"
+    },
+    {
+      "name": "Eraser",
+      "_id": "Eraser"
+    },
+    {
+      "name": "Fontleroy Brown",
+      "_id": "FontleroyBrown"
+    },
+    {
+      "name": "Huawei Font",
+      "_id": "HuaweiFont"
+    },
+    {
+      "name": "Freebooter script",
+      "_id": "Freebooterscript"
+    },
+    {
+      "name": "Josefin Sans",
+      "_id": "JosefinSans"
+    },
+    {
+      "name": "Josefin Slab",
+      "_id": "JosefinSlab"
+    },
+    {
+      "name": "Journal",
+      "_id": "Journal"
+    },
+    {
+      "name": "Kristi",
+      "_id": "Kristi"
+    },
+    {
+      "name": "Lane",
+      "_id": "Lane"
+    },
+    {
+      "name": "Maven Pro",
+      "_id": "MavenPro"
+    },
+    {
+      "name": "Montez",
+      "_id": "Montez"
+    },
+    {
+      "name": "Mountains of Christmas",
+      "_id": "MountainsofChristmas"
+    },
+    {
+      "name": "Muli",
+      "_id": "Muli"
+    },
+    {
+      "name": "Mutlu",
+      "_id": "Mutlu"
+    },
+    {
+      "name": "Nobile",
+      "_id": "Nobile"
+    },
+    {
+      "name": "Open Sans",
+      "_id": "OpenSans"
+    },
+    {
+      "name": "Orbitron",
+      "_id": "England"
+    },
+    {
+      "name": "Pacifico",
+      "_id": "Pacifico"
+    },
+    {
+      "name": "PT",
+      "_id": "PT"
+    },
+    {
+      "name": "Qwigley",
+      "_id": "Qwigley"
+    },
+    {
+      "name": "San Francisco",
+      "_id": "SanFrancisco"
+    },
+    {
+      "name": "Raleway",
+      "_id": "Raleway"
+    },
+    {
+      "name": "Riesling",
+      "_id": "Riesling"
+    }
+  ],
+  "dialer": [
+    {
+      "_id": "mor_dark",
+      "isColored": false
+    },
+    {
+      "_id": "mor_light",
+      "isColored": false
+    },
+    {
+      "_id": "ioslight",
+      "isColored": false
+    },
+    {
+      "_id": "iosdark",
+      "isColored": false
+    }
+  ],
+
+  "files_icons": [
+    {
+      "_id": "fluent",
+      "isColored": false
+    },
+    {
+      "_id": "morphy",
+      "isColored": false
+    },
+    {
+      "_id": "material_alt",
+      "isColored": true
+    },
+    {
+      "_id": "material",
+      "isColored": false
+    },
+    {
+      "_id": "dream_alt",
+      "isColored": true
+    },
+    {
+      "_id": "dream",
+      "isColored": false
+    },
+    {
+      "_id": "miui",
+      "isColored": false
+    },
+    {
+      "_id": "ios_alt",
+      "isColored": true
+    },
+    {
+      "_id": "ios",
+      "isColored": false
+    }
+  ]
+}
