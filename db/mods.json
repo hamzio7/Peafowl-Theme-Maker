@@ -45,8 +45,8 @@
       "name": "i-Special Pink Dividers"
     }
   ],
-  
-  "settings_icons": [
+
+  "settings": [
     {
       "_id": "plumpy",
       "isColored": true
@@ -315,7 +315,7 @@
       "_id": "Riesling"
     }
   ],
-  "dialer": [
+  "phone": [
     {
       "_id": "mor_dark",
       "isColored": false
@@ -334,7 +334,7 @@
     }
   ],
 
-  "files_icons": [
+  "files": [
     {
       "_id": "fluent",
       "isColored": false
