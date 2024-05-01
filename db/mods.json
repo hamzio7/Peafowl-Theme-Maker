@@ -46,6 +46,74 @@
     }
   ],
 
+  
+  "palette": [
+    {
+      "_id": "p_boldy",
+      "isColored": true
+    },
+    {
+      "_id": "p_boldy_g",
+      "isColored": true
+    },
+    {
+      "_id": "p_coloros",
+      "isColored": true
+    },
+    {
+      "_id": "p_coloros13",
+      "isColored": true
+    },
+    {
+      "_id": "p_default",
+      "isColored": true
+    },
+    {
+      "_id": "p_dream",
+      "isColored": true
+    },
+    {
+      "_id": "p_fluent",
+      "isColored": true
+    },
+    {
+      "_id": "p_fluent_fill",
+      "isColored": true
+    },
+    {
+      "_id": "p_material_outline",
+      "isColored": true
+    },
+    {
+      "_id": "p_miui",
+      "isColored": true
+    },
+    {
+      "_id": "p_modern",
+      "isColored": true
+    },
+    {
+      "_id": "p_oneui",
+      "isColored": true
+    },
+    {
+      "_id": "p_ophium_flat_s",
+      "isColored": true
+    },
+    {
+      "_id": "p_ophium_s",
+      "isColored": true
+    },
+    {
+      "_id": "p_plumpy",
+      "isColored": true
+    },
+    {
+      "_id": "p_you",
+      "isColored": true
+    }
+  ],
+
   "settings": [
     {
       "_id": "plumpy",
