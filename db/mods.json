@@ -45,8 +45,6 @@
       "name": "i-Special Pink Dividers"
     }
   ],
-
-  
   "palette": [
     {
       "_id": "p_boldy",
@@ -113,8 +111,11 @@
       "isColored": true
     }
   ],
-
   "settings": [
+    {
+      "_id": "hyperos",
+      "isColored": false
+    },
     {
       "_id": "plumpy",
       "isColored": true
@@ -216,7 +217,6 @@
       "isColored": true
     }
   ],
-
   "fonts": [
     {
       "name": "Aaargh",
@@ -401,7 +401,6 @@
       "isColored": false
     }
   ],
-
   "files": [
     {
       "_id": "fluent",
