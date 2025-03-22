@@ -47,6 +47,10 @@
   ],
   "palette": [
     {
+      "_id": "p_material_symbols",
+      "isColored": true
+    },
+    {
       "_id": "p_boldy",
       "isColored": true
     },
