@@ -113,6 +113,14 @@
   ],
   "settings": [
     {
+      "_id": "material_symbols_alt",
+      "isColored": true
+    },
+    {
+      "_id": "material_symbols",
+      "isColored": false
+    },
+    {
       "_id": "hyperos",
       "isColored": false
     },
