@@ -117,6 +117,10 @@
   ],
   "settings": [
     {
+      "_id": "xperia",
+      "isColored": false
+    },
+    {
       "_id": "material_symbols_alt",
       "isColored": true
     },
