@@ -401,6 +401,10 @@
   ],
   "phone": [
     {
+      "_id": "os10",
+      "isColored": false
+    },
+    {
       "_id": "mor_dark",
       "isColored": false
     },
