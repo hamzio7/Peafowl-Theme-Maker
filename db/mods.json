@@ -401,6 +401,12 @@
   ],
   "phone": [
     {
+      "_id": "glass_round",
+      "isColored": false
+    },{
+      "_id": "glass_square",
+      "isColored": false
+    },{
       "_id": "os10",
       "isColored": false
     },
