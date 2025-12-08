@@ -401,6 +401,10 @@
   ],
   "phone": [
     {
+      "_id": "glass_oval",
+      "isColored": false
+    },
+    {
       "_id": "glassicv1",
       "isColored": false
     },
